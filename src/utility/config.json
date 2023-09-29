@@ -1,0 +1,39 @@
+{
+    "title":"Designed To Be Sweet, Made For Your Palate.",
+    "desc":"It is health that is real wealth and not pieces of gold and silver.",
+    "direction":"row",
+    "theme":{
+        "primirycolor":"#ffa31a", 
+        "secondarycolor":" #ff6600"   
+    },
+   
+    "products":[
+        {
+            "img":"https://www.shutterstock.com/image-photo/indian-sweet-food-orange-burfi-260nw-609542465.jpg",
+            "name":"orange burfi",
+            "price":"600 kg"
+        },
+        {
+            "img":"https://s4.scoopwhoop.com/anj2/5dad55a250758d1cac506980/0ee1479c-d032-4822-89d2-3d008e78ec5c.jpg",
+            "name":"kaju kathli",
+            "price":"1000 kg"
+        },
+        {
+            "img":"https://www.bigbasket.com/media/uploads/p/l/800198691_1-laddoos-sweets-special-motichur-ladoo.jpg",
+            "name":"matichur lado",
+            "price":"500 kg"
+        },
+        {
+            "img":"https://3.bp.blogspot.com/-0NZAZL40NXs/UJ0SkOlOu0I/AAAAAAAAI74/P7q_PC4t9SU/s1600/Coconut+Burfi1.JPG",
+            "name":"coconut burfi",
+            "price":"400 kg"
+        },
+        {
+            "img":"https://www.bigbasket.com/media/uploads/p/l/800198691_1-laddoos-sweets-special-motichur-ladoo.jpg",
+            "name":"matichur lado",
+            "price":"500 kg"
+        }
+         
+    ]
+    
+}
